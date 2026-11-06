@@ -3,7 +3,10 @@
 An interactive AI-powered chatbot that lets users experience conversations through different AI personalities. Choose between **Angry, Funny, and Sad** modes and interact with an AI that responds according to the selected personality.
 ## 📸 Application Preview
 
-![AI Personality Chatbot](./assets/chatbot-ui.png)
+<p align="center">
+  <img src="./assets/chatbot-ui.png" alt="AI Personality Chatbot" width="850"/>
+</p>
+
 Built using Python, LangChain, Google Gemini API, and Streamlit.
 
 ## ✨ Features
